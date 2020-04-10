@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Flash)(type Legacy)(uri /home/alex/GitHub/kicad-libraries/arturo182/Memory_Flash_Extra.lib)(options "")(descr ""))
+)

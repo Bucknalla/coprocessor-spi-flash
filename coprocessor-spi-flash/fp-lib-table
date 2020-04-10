@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name package_flash)(type KiCad)(uri /home/alex/GitHub/kicad-libraries/arturo182/modules/Package_SON_Extra.pretty)(options "")(descr ""))
+)
